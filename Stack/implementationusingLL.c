@@ -53,8 +53,10 @@ int main(){
     push(13);
     push(14);
     push(15);
+    push(16);
     peek();
     pop();
+    peek();
     display();
     return 0;
 }
